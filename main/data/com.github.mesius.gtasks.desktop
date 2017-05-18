@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=GTasks
+GenericName=GTasks App
+Comment=Task manager
+Categories=GTK;Utility;
+Exec=com.github.mesius.gtasks
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=gtasks
+Keywords=Tasks;List;Example;
